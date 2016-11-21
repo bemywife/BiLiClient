@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--App主色调-->
+    <color name="colorPrimary">#fb7299</color>
+    <color name="colorPrimaryDark">#b85671</color>
+    <color name="colorAccent">@android:color/black</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="line_bg">#e6e6e6</color>
+    <color name="window_background">#eaeaea</color>
+
+
+</resources>
